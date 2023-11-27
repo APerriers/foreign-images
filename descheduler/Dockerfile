@@ -1,2 +1,2 @@
 # 需要构建的镜像名称和版本
-FROM k8s.gcr.io/descheduler/descheduler:v0.25.1
+FROM us.gcr.io/k8s-artifacts-prod/descheduler/descheduler:v0.18.0
